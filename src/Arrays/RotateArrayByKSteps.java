@@ -25,9 +25,9 @@ public class RotateArrayByKSteps {
             ReverseAnArrayWithNewArray.printArray(arr);
         }else{
             reverseArray(arr,i,j);
-            ReverseAnArrayWithNewArray.printArray(arr);
+            //ReverseAnArrayWithNewArray.printArray(arr);
             reverseArray(arr,i,k-1);
-            ReverseAnArrayWithNewArray.printArray(arr);
+            //ReverseAnArrayWithNewArray.printArray(arr);
             reverseArray(arr,k,j);
 
             System.out.println("The rotated array:");
@@ -40,7 +40,7 @@ public class RotateArrayByKSteps {
         //System.out.println(arr.length);
         System.out.print("Enter the Steps to rotate: ");
         int k = sc.nextInt();
-        k = k%arr.length;
+        k = k % arr.length;
         System.out.println(k);
 
         rotateArrayByKSteps(arr,k);
