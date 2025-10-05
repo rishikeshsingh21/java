@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.oneDArray;
 
 public class FirstRepeatingEleInArray {
     public static int lastRepeatingValue(int[] arr){

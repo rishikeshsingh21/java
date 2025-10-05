@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.oneDArray;
 
 public class SmallestAndSecondSamallestEle {
     public static int smallesEle(int[] arr){

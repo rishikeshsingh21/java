@@ -1,5 +1,5 @@
-package Arrays;
-import java.util.Arrays;
+package Arrays.oneDArray;
+
 public class ArrayIsSorted {
     public static int isSorted(int[] arr){
         for (int i = 0; i < arr.length - 1; i++) {

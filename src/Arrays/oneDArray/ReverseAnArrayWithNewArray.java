@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.oneDArray;
 
 public class ReverseAnArrayWithNewArray {
     public static void printArray(int[] arr){

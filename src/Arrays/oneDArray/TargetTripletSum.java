@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.oneDArray;
 
 public class TargetTripletSum {
     public static void main(String[] args) {

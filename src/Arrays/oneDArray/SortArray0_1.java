@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.oneDArray;
 
 public class SortArray0_1 {
     public static void printArray(int[] arr){

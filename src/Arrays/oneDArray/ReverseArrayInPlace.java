@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.oneDArray;
 
 public class ReverseArrayInPlace {
     public static void  swap(int[] arr,int i, int j){

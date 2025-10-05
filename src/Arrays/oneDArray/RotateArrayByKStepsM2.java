@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.oneDArray;
 
 public class RotateArrayByKStepsM2 {
     public static void printArray(int[] arr){

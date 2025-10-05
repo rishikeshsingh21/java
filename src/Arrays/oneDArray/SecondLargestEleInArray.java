@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.oneDArray;
 
 public class SecondLargestEleInArray {
     public static int findMax(int[] arr){

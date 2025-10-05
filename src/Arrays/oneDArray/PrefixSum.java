@@ -1,6 +1,6 @@
-package Arrays;
+package Arrays.oneDArray;
 
-import static Arrays.SortArray0_1.printArray;
+import static Arrays.oneDArray.SortArray0_1.printArray;
 
 public class PrefixSum {
     static void calPrefixSum(int[] arr){
