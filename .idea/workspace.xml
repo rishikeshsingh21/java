@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7192ad40-d2d5-4356-9923-8cafb522c1df" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="32vlsAAS1VwXzRZxe1QFwJmRCVk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AdditionOfMatrix.executor": "Run",
+    "Application.AlphabetPattern.executor": "Run",
+    "Application.Array01.executor": "Run",
+    "Application.ArrayIsSorted.executor": "Run",
+    "Application.ArrayPartitionInTwoEqualSum.executor": "Run",
+    "Application.Basics.executor": "Run",
+    "Application.BinaryToDecimal.executor": "Run",
+    "Application.Bitwise.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.CircularTemple.executor": "Run",
+    "Application.Circulatory.executor": "Run",
+    "Application.CountDigit.executor": "Run",
+    "Application.CountNumGreaterThenEle.executor": "Run",
+    "Application.CountOfOccurenceInArray.executor": "Run",
+    "Application.DecimalToBinary.executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
+    "Application.FirstRepeatingEleInArray.executor": "Run",
+    "Application.Folding.executor": "Run",
+    "Application.ForQQuriesFindEleInArray.executor": "Run",
+    "Application.HollowNumericPyramid.executor": "Run",
+    "Application.HollowRectangle.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
+    "Application.LastOccuranceOfEle.executor": "Run",
+    "Application.LinearSearch.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MaxEleOfArray.executor": "Run",
+    "Application.MultidimensionalArray.executor": "Run",
+    "Application.MultiplicationOfMatrix.executor": "Run",
+    "Application.NToOne.executor": "Run",
+    "Application.NumberPyramid.executor": "Run",
+    "Application.NumericRectangle.executor": "Run",
+    "Application.OneToNNaturalNumber.executor": "Run",
+    "Application.OneToNPrint.executor": "Run",
+    "Application.PascalsTriangle.executor": "Run",
+    "Application.Pow.executor": "Run",
+    "Application.PrefixSum.executor": "Run",
+    "Application.PrefixSumForRangeForQQueries.executor": "Run",
+    "Application.PrefixSumInPlace.executor": "Run",
+    "Application.PrintSpiral.executor": "Run",
+    "Application.Pyramid.executor": "Run",
+    "Application.QuickSort.executor": "Run",
+    "Application.Rectangle.executor": "Run",
+    "Application.ReverseAnArray.executor": "Run",
+    "Application.ReverseAnArrayWithNewArray.executor": "Run",
+    "Application.ReverseArrayInPlace.executor": "Run",
+    "Application.ReverseArrayList.executor": "Run",
+    "Application.ReverseDigit.executor": "Run",
+    "Application.RotateArrayByKSteps.executor": "Run",
+    "Application.RotateArrayByKStepsM2.executor": "Run",
+    "Application.RotateMatBy90.executor": "Run",
+    "Application.SearchingEleInArray.executor": "Run",
+    "Application.SecondLargestEleInArray.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
+    "Application.SetMatrixZero.executor": "Run",
+    "Application.SingleUniqueEleInArray.executor": "Run",
+    "Application.SmallestAndSecondSamallestEle.executor": "Run",
+    "Application.SortArray0_1.executor": "Run",
+    "Application.SortArray0_1TwoPointer.executor": "Run",
+    "Application.SortArrayOddEven.executor": "Run",
+    "Application.SquareOfEachEleNonDecArray.executor": "Run",
+    "Application.SuffixSum.executor": "Run",
+    "Application.SumOfDigit.executor": "Run",
+    "Application.SumOfRect.executor": "Run",
+    "Application.SumOfSeries01.executor": "Run",
+    "Application.SwapValTemp.executor": "Run",
+    "Application.TargetSum.executor": "Run",
+    "Application.TargetTripletSum.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TransposeOfMatrix.executor": "Run",
+    "Application.TransposeOfMatrixInPlace.executor": "Run",
+    "Application.Triangle.executor": "Run",
+    "Application.Triangle02.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "java",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/ASUS/IdeaProjects/java and dsa/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7192ad40-d2d5-4356-9923-8cafb522c1df" name="Changes" comment="" />
+      <created>1758309132401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758309132401</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

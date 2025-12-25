@@ -1,0 +1,22 @@
+Index: src/BasicsOfJava/Basics.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package BasicsOfJava;\r\n\r\npublic class Basics {\r\n    public static void main(String[] args) {\r\n        System.out.println(\"Rishikesh how are you!!\");\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/BasicsOfJava/Basics.java b/src/BasicsOfJava/Basics.java
+--- a/src/BasicsOfJava/Basics.java	(revision 9d5153e27f371f02b14e613ba213ba0c7635eab4)
++++ b/src/BasicsOfJava/Basics.java	(date 1758791091890)
+@@ -3,5 +3,11 @@
+ public class Basics {
+     public static void main(String[] args) {
+         System.out.println("Rishikesh how are you!!");
++        int x = 42;
++        double y = 3.14159;
++        String name = "Rishikesh";
++
++        System.out.printf("%1$-10s %2$+08d %3$,.2f%n", name, x, y);
++        //System.out.println("[arg_indx$][flag][width][precision]");
+     }
+ }
