@@ -80,7 +80,7 @@ public class SumOfRect {
         //prefixSum(array);
         //findSum(array,0,0,0,7);
         //findSumUsingPrefixSum(array,0,0,6,7);
-        findSumColPrifix(array)
+        findSumColPrifix(array);
 
 
     }
