@@ -4,7 +4,77 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7192ad40-d2d5-4356-9923-8cafb522c1df" name="Changes" comment="" />
+    <list default="true" id="7192ad40-d2d5-4356-9923-8cafb522c1df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java and dsa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayList/ReverseArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/oneDArray/Array01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/oneDArray/ArrayIsSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/oneDArray/ArrayPartitionInTwoEqualSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/oneDArray/CountNumGreaterThenEle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/oneDArray/CountOfOccurenceInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/oneDArray/FirstRepeatingEleInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/oneDArray/ForQQuriesFindEleInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/oneDArray/LastOccuranceOfEle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/oneDArray/MaxEleOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/oneDArray/PrefixSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/oneDArray/PrefixSumForRangeForQQueries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/oneDArray/PrefixSumInPlace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/oneDArray/ReverseAnArrayWithNewArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/oneDArray/ReverseArrayInPlace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/oneDArray/RotateArrayByKSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/oneDArray/RotateArrayByKStepsM2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/oneDArray/SearchingEleInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/oneDArray/SecondLargestEleInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/oneDArray/SingleUniqueEleInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/oneDArray/SmallestAndSecondSamallestEle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/oneDArray/SortArray0_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/oneDArray/SortArray0_1TwoPointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/oneDArray/SortArrayOddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/oneDArray/SquareOfEachEleNonDecArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/oneDArray/SuffixSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/oneDArray/TargetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/oneDArray/TargetTripletSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/twoDArray/AdditionOfMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/twoDArray/MultidimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/twoDArray/MultiplicationOfMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/twoDArray/PascalsTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/twoDArray/PrintSpiral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/twoDArray/RotateMatBy90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/twoDArray/SetMatrixZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/twoDArray/SumOfRect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/twoDArray/TransposeOfMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/twoDArray/TransposeOfMatrixInPlace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicsOfJava/Basics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicsOfJava/Basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicsOfJava/BinaryToDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicsOfJava/Bitwise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicsOfJava/CountDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicsOfJava/DecimalToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicsOfJava/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicsOfJava/Pow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicsOfJava/ReverseDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicsOfJava/SumOfDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicsOfJava/SumOfSeries01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicsOfJava/SwapValTemp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicsOfJava/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/SortingTechniques/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/OneToNNaturalNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/AlphabetPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/HollowNumericPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/HollowRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/NumberPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/NumericRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/Pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/Triangle02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +181,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "java",
+    "git-widget-placeholder": "Merging main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/ASUS/IdeaProjects/java and dsa/src/Main.java",
